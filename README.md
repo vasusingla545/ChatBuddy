@@ -43,8 +43,7 @@ chatbuddy/
 │   ├── socket/         # Socket.io events and handlers
 │   └── ...
 ├── frontend/           # React.js files
-│   ├── components/     # Reusable components
-│   ├── pages/          # Application pages
-│   ├── hooks/          # Custom React hooks
+│   ├── public/     # Reusable components
+│   ├── src/          # Application pages         
 │   └── ...
 └── README.md           # This file
