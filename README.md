@@ -27,7 +27,7 @@ Welcome to **ChatBuddy**! This project is a real-time chat application that supp
   - Node.js
   - Express.js
   - Socket.io for real-time communication
-  - JWT for authentication (if implemented)
+  - JWT for authentication 
 
 ---
 
@@ -38,7 +38,7 @@ chatbuddy/
 ├── backend/            # Node.js & Express server files
 │   ├── config/         # Configuration files (db, jwt, etc.)
 │   ├── controllers/    # API controllers
-│   ├── models/         # Mongoose models (if using MongoDB)
+│   ├── models/         # Mongoose models 
 │   ├── routes/         # API routes
 │   ├── socket/         # Socket.io events and handlers
 │   └── ...
