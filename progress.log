@@ -362,3 +362,4 @@
 2025-02-06 fix: resolve minor issue
 2025-02-06 fix: typo in documentation
 2025-02-06 test: add test case
+2025-02-09 refactor: simplify logic
